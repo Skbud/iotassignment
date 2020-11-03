@@ -4,7 +4,7 @@ The assignment is done in two parts one for publishing and another for subscribi
 
 I have used Paho as my mqtt client and eclipse as my broker.
 
-TheThe working as follows:
+The working as follows:
 
 
 1.Publisher:It publishes message with topic humiditytopic every 30 second.The simulation for humidity sensor is done using python random function for simplicity.
